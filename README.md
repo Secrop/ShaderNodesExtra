@@ -1,3 +1,7 @@
+Note: this version is for blender 2.7x
+
+If you're using 2.80+, please look here: http://github.com/Secrop/ShaderNodesExtra2.80
+
 # ShaderNodesExtra
 Utilities for Cycles PyNodes
 
